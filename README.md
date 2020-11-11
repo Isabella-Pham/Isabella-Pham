@@ -1,5 +1,5 @@
 ### yes I am using the Snapchat anime filter in my github pic
-I'm currently taking a gap year right now to intern at Datadog for the Fall and Snapchat for the Spring. Then I'll be going to Stripe and Microsoft.
+I'm currently taking a gap year right now to intern at Datadog for the Fall and Snapchat for the Winter. Then I'll be going to Stripe and Microsoft.
 
 <!--
 **Isabella-Pham/Isabella-Pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
